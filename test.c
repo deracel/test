@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello, World. Commit 1");
+	printf("Hello, World\n");
+	printf("Commit 2\n");
 }
